@@ -4,7 +4,7 @@ This is a dockerfile config to set up a MTA:SA Server on docker.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Typo
 
 ```bash
 git clone https://github.com/ciber96/mtasa-docker.git
