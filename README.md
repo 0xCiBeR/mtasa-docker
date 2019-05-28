@@ -4,8 +4,6 @@ This is a dockerfile config to set up a MTA:SA Server on docker.
 
 ## Installation
 
-Typo
-
 ```bash
 git clone https://github.com/ciber96/mtasa-docker.git
 cd mtasa-docker
