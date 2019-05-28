@@ -6,7 +6,7 @@ This is a dockerfile config to set up a MTA:SA Server on docker.
 - https://hub.docker.com/r/ciber96/mtasa-docker
 
 ## Installation for Use Out of the Box
-``bash
+```bash
 docker pull ciber96/mtasa-docker
 docker run \
 -p 22003:22003 \
