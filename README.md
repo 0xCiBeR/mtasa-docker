@@ -17,5 +17,8 @@ docker run -it \
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## License
+You are free to re-use this repository, without removing original creators credits.
+
 ## Known Issues
 None
